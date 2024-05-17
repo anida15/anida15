@@ -3,7 +3,7 @@
 anidakimtai@gmail.com
 
 ![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
-+254790359782
+https://wa.me/+254790359782
 
 # 💻 Tech Stack:
 ## Programming Languages:
