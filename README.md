@@ -25,9 +25,7 @@
 ![Application Security](https://img.shields.io/badge/application%20security-1E1E1E?style=for-the-badge&logo=security&logoColor=white) ![Network Security](https://img.shields.io/badge/network%20security-0073AA?style=for-the-badge&logo=network&logoColor=white) ![Cloud Security](https://img.shields.io/badge/cloud%20security-1A73E8?style=for-the-badge&logo=cloud&logoColor=white) ![IoT Security](https://img.shields.io/badge/iot%20security-2E7D32?style=for-the-badge&logo=iot&logoColor=white)
 
 ## Cloud Computing
-![Cloud Architecture](https://img.shields.io/badge/cloud%20architecture-FF9900?style=for-the-badge&logo=cloud&logoColor=white) ![Data Management](https://img.shields.io/badge/data%20management-FF5733
-
-?style=for-the-badge&logo=data&logoColor=white) ![Scalable Application Deployment](https://img.shields.io/badge/scalable%20application%20deployment-5A9?style=for-the-badge&logo=deployment&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/cloud%20architecture-FF9900?style=for-the-badge&logo=cloud&logoColor=white) ![Data Management](https://img.shields.io/badge/data%20management-FF5733?style=for-the-badge&logo=data&logoColor=white) ![Scalable Application Deployment](https://img.shields.io/badge/scalable%20application%20deployment-5A9?style=for-the-badge&logo=deployment&logoColor=white)
 
 ## Software Development Practices
 ![Agile](https://img.shields.io/badge/agile-007ACC?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white) ![Kanban](https://img.shields.io/badge/kanban-4CAF50?style=for-the-badge&logo=kanban&logoColor=white) ![TDD](https://img.shields.io/badge/tdd-FF5722?style=for-the-badge&logo=tdd&logoColor=white) ![BDD](https://img.shields.io/badge/bdd-795548?style=for-the-badge&logo=bdd&logoColor=white)
