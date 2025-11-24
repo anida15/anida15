@@ -59,7 +59,5 @@
 ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 anidakimtai@gmail.com
 
-![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
-[Chat on WhatsApp](https://wa.me/+254790359782)
 
  
