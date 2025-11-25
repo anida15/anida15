@@ -15,9 +15,6 @@
 ## DevOps and CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-## System Design and Integration
-![API Design](https://img.shields.io/badge/api%20design-FF6F61?style=for-the-badge&logo=api&logoColor=white) ![RESTful Services](https://img.shields.io/badge/restful%20services-FF5733?style=for-the-badge&logo=rest&logoColor=white) ![GraphQL APIs](https://img.shields.io/badge/graphql%20apis-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Microservices](https://img.shields.io/badge/microservices-FF6F61?style=for-the-badge&logo=microservices&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Solr](https://img.shields.io/badge/solr-D9412F?style=for-the-badge&logo=solr&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Blockchain](https://img.shields.io/badge/blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
-
 ## Networking Administration
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
