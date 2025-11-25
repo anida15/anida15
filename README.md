@@ -39,6 +39,6 @@
 # 📧 Contacts:
 ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 anidakimtai@gmail.com
-
+**Portfolio:** [https://portfolio-anida-kimtai.vercel.app/](https://portfolio-anida-kimtai.vercel.app/)
 
  
