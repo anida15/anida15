@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## Networking Administration
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 
 ## Cybersecurity
 ![Application Security](https://img.shields.io/badge/application%20security-1E1E1E?style=for-the-badge&logo=security&logoColor=white) ![Network Security](https://img.shields.io/badge/network%20security-0073AA?style=for-the-badge&logo=network&logoColor=white) ![Cloud Security](https://img.shields.io/badge/cloud%20security-1A73E8?style=for-the-badge&logo=cloud&logoColor=white) ![IoT Security](https://img.shields.io/badge/iot%20security-2E7D32?style=for-the-badge&logo=iot&logoColor=white)
