@@ -35,18 +35,10 @@
 ## Big Data
 ![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Hive](https://img.shields.io/badge/hive-FFBB00?style=for-the-badge&logo=apache-hive&logoColor=white) ![Pig](https://img.shields.io/badge/pig-FB8C00?style=for-the-badge&logo=apache-pig&logoColor=white)
 
-## Operating Systems
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Embedded Systems
-![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Microcontroller](https://img.shields.io/badge/microcontroller-FF6F61?style=for-the-badge&logo=microcontroller&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 
-## Soft Skills
-- Communication Skills
-- Team Collaboration
-- Project Management
-- Time Management
-- Critical Thinking
 
 # 📧 Contacts:
 ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
