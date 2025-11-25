@@ -31,11 +31,7 @@
 
 ## Data Science
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%230a0a0a.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-00557F?style=for-the-badge&logo=seaborn&logoColor=white)
-
-## Big Data
-![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Hive](https://img.shields.io/badge/hive-FFBB00?style=for-the-badge&logo=apache-hive&logoColor=white) ![Pig](https://img.shields.io/badge/pig-FB8C00?style=for-the-badge&logo=apache-pig&logoColor=white)
-
-
+ 
 ## Embedded Systems
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 
