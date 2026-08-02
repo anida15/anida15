@@ -1,5 +1,11 @@
- # 💻 Tech Stack
 
+# 📧 Contacts:
+![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+anidakimtai@gmail.com
+**Portfolio:** [https://portfolio-anida-kimtai.vercel.app/](https://portfolio-anida-kimtai.vercel.app/)
+ 
+ # 💻 Tech Stack
+ 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -35,10 +41,3 @@
 ## Embedded Systems
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 
-
-# 📧 Contacts:
-![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-anidakimtai@gmail.com
-**Portfolio:** [https://portfolio-anida-kimtai.vercel.app/](https://portfolio-anida-kimtai.vercel.app/)
-
- 
